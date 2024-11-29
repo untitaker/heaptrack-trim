@@ -2,6 +2,12 @@
 name = "heaptrack-trim"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+readme = "README.md"
+
+authors = [
+    "Markus Unterwaditzer <markus-honeypot@unterwaditzer.net>"
+]
 
 [dependencies]
 argh = "0.1.12"
